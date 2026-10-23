@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+# Original dataset
+/data/raw/*.csv
+
+# Local Python environments
+.venv/
+.venv_backup/
+
+# Python cache
+__pycache__/
+*.pyc
